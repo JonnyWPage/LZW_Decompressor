@@ -1,0 +1,3 @@
+﻿  LZW_decompressor.cpp
+c:\users\jonny\documents\visual studio 2015\projects\lzw_decompressor\lzw_decompressor\lzw_decompressor.cpp(37): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+  LZW_decompressor.vcxproj -> C:\Users\jonny\Documents\Visual Studio 2015\Projects\LZW_decompressor\Debug\LZW_decompressor.exe
